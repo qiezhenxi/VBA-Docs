@@ -14,12 +14,12 @@ ms.date: 06/08/2017
 # PageSetup Object (Excel)
 
 Represents the page setup description.
-
+表示页面设置的描述
 
 ## Remarks
 
  The **PageSetup** object contains all page setup attributes (left margin, bottom margin, paper size, and so on) as properties.
-
+**PageSetup** 对象包含所有页面设置属性（左边距，下边距，纸张尺寸，等等）
 
 ## Example
 
